@@ -1,4 +1,7 @@
-![Header](assets/amba.gif)
+<p align="center">
+  <img src="assets/amba.gif" width="45%"/>
+  <img src="assets/amba2.gif" width="45%"/>
+</p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
